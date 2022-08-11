@@ -30,12 +30,11 @@ function generateScript() {
 
 //Move these variables to the top
 var factList = [
-  "16.9 million children lack the high-speed home internet access necessary to support online learning", 
-  "7.3 million children do not have a desktop, laptop, or tablet computer", 
-  "One in three Black, Latino, and American Indian/Alaska Native families do not have high-speed home internet", 
-  "One in three families who earn less than $50,000 annually do not have high-speed home internet", 
-  "Two in five families in rural areas do not have high-speed home internet", 
-  "12 million kids live in homes without a broadband Internet connection"
+  "Fossil fuel is running out in 47 years", 
+  "Biomass can be an effective alternative for fossil fuel", 
+  "Biomass includes but are not limited to animal sewage, crops, animal fat, woods", 
+  "Biomass can be converted into renewable energy by gasification, anaerobic decomposition..", 
+  "Wind, Sun, Water can also be an effective renewable energy source", 
 ];
 
 var fact = document.getElementById("fact");
