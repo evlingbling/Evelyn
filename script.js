@@ -24,7 +24,7 @@ function generateScript() {
   var location = document.getElementById("location").value;
   var learning = document.getElementById("learning").value;
 
-  displayScript.innerHTML = "Hello, my name is " + name + " and I live in " + location + ". I am calling to ask you to support H.R.4229 Broadband Deployment Accuracy and Technological Availability (DATA) Act for more accurate broadband maps. As a student, my learning now depends on my access to the internet. For example, " + learning + ". Please support H.R.4229 Broadband Deployment Accuracy and Technological Availability (DATA) Act for more accurate broadband maps.";
+  displayScript.innerHTML = "Hello, my name is " + name + " and I live in " + location + ". I am calling to ask you to support your action to save the Earth from climate chang. For example, " + learning + ". Please support saving Earth from climate change today.";
 }
 
 
